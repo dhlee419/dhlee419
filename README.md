@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 Professor @ Pusan National University  
+- 🔍 Interests: AI, Computer Vision, UAV, Medical Big Data
+- 📚 Projects: [See my homepage](https://dhlee419.github.io)
+- 📫 Contact: dhlee419 at gmail dot com
